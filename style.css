@@ -1,0 +1,40 @@
+body {
+  text-align: center;
+  font-family: futura;
+  text-transform: uppercase;
+  background-image: url(images/black.png);
+  background-size: cover;
+  color: white;
+}
+
+h1 {
+  font-size: 60px;
+  padding-top: 200px;
+  margin-bottom: 35px;
+}
+
+.button {
+  text-decoration: none;
+  color: white;
+}
+
+.button:hover {
+  background-color: white;
+  padding: 10px 10px 10px 10px;
+  color: black;
+}
+
+.list {
+  list-style: none;
+  padding-left: 0;
+  padding-bottom: 30px;
+}
+
+.list li {
+  display: inline;
+}
+
+.list a {
+  color: white;
+  font-size: 20px;
+}
